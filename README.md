@@ -47,6 +47,7 @@ counts of each user type<br>
 counts of each gender (only available for NYC and Chicago)<br>
 earliest, most recent, most common year of birth (only available for NYC and Chicago)<br>
 
+
 The Files<br>
 To answer these questions using Python, you will need to write a Python script. To help guide your work in this project, a template with helper code and comments is provided in a bikeshare.py file, and you will do your scripting in there also. You will need the three city dataset files too:
 
