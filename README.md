@@ -41,6 +41,7 @@ most common trip from start to end (i.e., most frequent combination of start sta
 
 total travel time<br>
 average travel time<br>
+
 #4 User info<br>
 
 counts of each user type<br>
